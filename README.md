@@ -27,5 +27,4 @@
 - Linux : ```python3 NetMaster.py``` <br>
 -  Windows : ```python NetMaster.py``` <br>
 
-**And here you go ! <br>NetMaster is fully interactive. <br>You only need to give a target.**
--
+### **And here you go ! <br>NetMaster is fully interactive. <br>You only need to give a target.**
