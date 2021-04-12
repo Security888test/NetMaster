@@ -16,7 +16,7 @@
 **Now you have to go to the NetMaster directoryn using : <br>```cd NetMaster/```(Works on both platforms).<br>**
 **To install all the  Python Requirements on your system, simply run : <br>**
 - Linux : ```pip3 install -r requirements.txt```<br>
-- Windows : ```pip install -r requirements.txt```**
+- Windows : ```pip install -r requirements.txt```
 
 **Once all of this is done, you are ready to use NetMaster !**
 
