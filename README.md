@@ -22,7 +22,7 @@
 
 **Once all of this is done, you are ready to use NetMaster !**
 
-### 3. Usage 🌐
+### 3. Usage ⌨️
 ---
 
 **To start NetMaster, type : <br>**
