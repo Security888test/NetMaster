@@ -1,5 +1,7 @@
 # NetMaster 🌐
 
+**Join Discord for support : https://discord.gg/WZk6jFnYqq 🔊**
+
 ### 1. Overview and Features ⚙️
 ---
 
