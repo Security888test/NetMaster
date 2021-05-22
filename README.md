@@ -1,4 +1,4 @@
-# NetMaster 🌐
+# NetMaster 🍦
 
 **Join Discord for support : https://discord.gg/WZk6jFnYqq 🔊**
 
@@ -11,22 +11,26 @@
 - a Geolocation Tool
 - a DNS Entry Tool
 
-### 2. Installation 💾
+### 2. Compilation 💾
 ---
 
-**First of all, you have to check if you have PIP installed. <br> - If you are on Windows, it should be installed by default as you have installed Python. <br></brIf>- If you are on Linux, run ```[sudo] apt install python3 python3-pip``` to update Python3 and install PIP3. <br>**
-**Now you have to go to the NetMaster directory using : <br>```cd NetMaster/```(Works on both platforms).<br>**
-**To install all the  Python Requirements on your system, simply run : <br>**
-- Linux : ```pip3 install -r requirements.txt```<br>
-- Windows : ```pip install -r requirements.txt```
+**All you need is a Linux Distribution with GCC installed (don't worry, it is by default). In case it's not, install it using APT or YUM :**
+ - ```[sudo] apt install gcc```
+ - ```[sudo] yum install gcc```
 
-**Once all of this is done, you are ready to use NetMaster !**
+**Now everything's ready, compile the program by typing ```[sudo] gcc Main.c -o VanillaIce```.**
+**Once done, VanillaIce will be ready to use.**
 
 ### 3. Usage ⌨️
 ---
 
-**To start NetMaster, type : <br>**
-- Linux : ```python3 NetMaster.py``` <br>
-- Windows : ```python NetMaster.py``` <br>
+**To start VanillaIce, use ```[sudo] ./VanillaIce```**
+
+**Then you'll have to choose between Encryption [1] and Decryption [2].**
+**For both modules, enter a Word and the a Key.**
+**The key has to be the same to Encrypt and Decrypt a word.**
+**Example : I encrypt " Hello " with key " 5 " : I get " Mjqqt "**
+**To decrypt it, I have to put word " Mjqqt " and key " 5 " too.**
+**Then, I'll get back " Hello ".**
 
 ### If you want to donate : https://www.paypal.com/paypalme/AdlerROG 💸
