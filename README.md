@@ -1,6 +1,6 @@
 # NetMaster 🌐
 
-**Join Discord for support : https://discord.gg/WZk6jFnYqq 🔊**
+**Join Discord for support : https://discord.gg/G7GvFvP4qH 🔊**
 
 ### 1. Overview and Features ⚙️
 ---
@@ -28,5 +28,3 @@
 **To start NetMaster, type : <br>**
 - Linux : ```python3 NetMaster.py``` <br>
 - Windows : ```python NetMaster.py``` <br>
-
-### If you want to donate : https://www.paypal.com/paypalme/AdlerROG 💸
